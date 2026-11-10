@@ -181,4 +181,4 @@ This repository serves as the official landing page for Stamps.com. The software
 **Get the most recent version of Stamps.com today!**
 
 ---
-**Last updated:** 2026-11-10 12:06:03 UTC
+**Last updated:** 2026-11-10 20:12:38 UTC
